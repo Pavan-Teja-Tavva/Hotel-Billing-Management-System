@@ -1,0 +1,13 @@
+#Tea & Coffee
+Tea 40/-
+Masala Chai 60/-
+Green Tea 60/-
+Butter Tea 40/-
+Vanilla Chai 60/-
+Irani Chai 70/-
+Lemon Tea 40/-
+Hot Coffee 60/-
+Cold-Coffee 70/-
+
+
+
